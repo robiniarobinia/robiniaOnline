@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.DS_Store
+npm-debug.log*\n
+# Next.js
+.next/
+out/
+*.log
+*.tsbuildinfo
+
+# Production
+build/
+
+# Miscellaneous
+*.local
+*.env
